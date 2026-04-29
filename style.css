@@ -48,10 +48,10 @@ p{
 }
 
 
-.total-counter{
+#total-counter{
   color: violet;
 }
 
-.remaining-counter{
+#remaining-counter{
   color: orangered;
 }
